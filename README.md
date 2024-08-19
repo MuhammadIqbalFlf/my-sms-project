@@ -1,1 +1,1 @@
-# my-sms-project
+School Management System
